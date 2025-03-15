@@ -13,7 +13,6 @@ namespace AvaloniaApplication1;
 
 public partial class MainWindow : Window
 {
-    List<string> TestCaseValidationResults = new();
     string DataFromApi = "";
     public MainWindow()
     {
